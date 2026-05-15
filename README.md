@@ -20,7 +20,7 @@
 
 ## Visualization
 <p align="center">
-  <img src="docs/assets/over.png" width="80%">
+  <img src="assets/over.png" width="80%">
 <p>
     In challenging corner-case driving scenarios, <b>VECTOR-Drive</b> generates temporally consistent and interpretable planning results.
     In the nighttime dense-traffic case, the model maintains a safe speed with surrounding vehicles, decelerates when a nearby vehicle
